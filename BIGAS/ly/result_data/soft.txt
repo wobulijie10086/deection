@@ -1,0 +1,6 @@
+Accuracy: 0.89987167
+False positive rate(FPR):  0.10662798
+False negative rate(FNR):  0.10416666666666667
+Recall(TPR):  0.9058651333333334
+Precision:  0.89312393
+F1 score:  0.89927229

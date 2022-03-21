@@ -1,0 +1,9 @@
+D:\pycharm\python\python.exe D:/代码/实验代码/新LSTM：ReChecker-master/test_Softmax.py
+Accuracy: 0.8802083333333334
+False positive rate(FPR):  0.15384615384615385
+False negative rate(FNR):  0.08465608465608465
+Recall(TPR):  0.9153439153439153
+Precision:  0.8522167487684729
+F1 score:  0.8826530612244898
+
+Process finished with exit code 0

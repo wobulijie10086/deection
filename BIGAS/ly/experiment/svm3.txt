@@ -1,0 +1,9 @@
+D:\pycharm\python\python.exe D:/代码/实验代码/新LSTM：ReChecker-master/test_SVM.py
+Accuracy: 0.9270833333333334
+False positive rate(FPR):  0.08163265306122448
+False negative rate(FNR):  0.06382978723404255
+Recall(TPR):  0.9361702127659575
+Precision:  0.9166666666666666
+F1 score:  0.9263157894736843
+
+Process finished with exit code 0
